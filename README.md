@@ -1,7 +1,6 @@
 ### AngelHacks2.0
 AngelHacks2.0 Hackathon 2021 
 
-## Presents: 
 ### Down The Rabbit Hole, A Unity Game
 The objective of the game is to travel through the maze and find the magic keys to unlock the Door on the other end of the maze. Unlike your typical maze, Down The Rabbit Hole is similar to a platform game where you have to jump over obstacles and search for the key. We incorporated face detection with Google's Cloud vision API so that we could render our face on each new character using a simple webcam photo (As if we were really pplaying in-game!).
 
