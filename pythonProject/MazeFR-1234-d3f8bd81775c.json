@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mazefr-1234",
+  "private_key_id": "d3f8bd81775c4e076af80f225be888453f38491e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCpw5S87Sy/rwAX\nYmwbVZuZ8lX9OK6liz8DDYfVm9UAPUBHMGmZE3mbOW7ssFdweENF1MZwZHeoRrCF\nR9SDpQGFtXJ1DEJlyq8OHXBzzcEn7pdWwuFZG+oltpvfeBrwlvcsI4IVxGD6apy8\ndgHOTqjSpR8J9sOFaMIp8oh9tGpetKiYl9h3yv5Ij5AG6jiXkmkpv7BMh/Y/xT/Z\nKBcYxsZ235kS5PM0gCCuxGv2mKs1iTcagtq8nqNsTkS0E3YWaXUGVXhLg7MJr57h\nvRO49qmNHrIg484iNKTn7S3FtxJRC/EymBm4zeTi4ykf3erWzKWi/Gcf8RJuuESN\nWETE7/L9AgMBAAECggEAB/nHWCTwcEUBhRe7qoEYIWBwR8hM9DwZhsQw+Ikstakr\nBu0wWN/AW9mT64zRXthXmMVJWWhu8rn3exuH0XOEIcsHiJY93FhsZwZdDSPCimS8\nOXhIbA5Srtjoc9RJt7nv/OPiLbGfOMSffn8w0IeDiPn2/lnYj8D/NkdNwFIkmTRi\nC7QvHKId5/MDyiSJf8PW24hcr0T0UzkWsbdJUeR4WTk8baov7rNcQvFc8BsBpZxn\n2Y6M0HtkrQoMfZ6eu/ib8At8NAFkEUOsaQgKoFCGwSXQDWmk7Sz2JggenQzhuC/F\njvUSNYhKSVd7p/RJHyT8iFfV1slkOT7l/ZJwoCeqgQKBgQDUry8hDrHLejQYem1y\nLTdUgFo2kzGXFXc9YbmWnDa3b3/HL4rmfmPSIp/TT3nO8bdaEBBdjzTXWQA9GAju\ngn0xqn79dCrrmFiIvc1rNAD86/uhTokgzfmN6wY5fzS3cBIQLQJkRhjKzq46lV39\nNHUD4Sif+fsJfJImoselBP0qoQKBgQDMVqQYtD3R8B7LLa0chwMlV7sYee26MWuy\n6gFqBdnJi8Ydo/HnY5uFJdL1fE5bLJ5GovulQAUuEOqg9FSqHdR91nCbpGnRSEnk\nxwbiRlbyagxvFo6yanCGPCcBJgq654DtBF5SNQ5p2DIwMDXXO5FHBQ9gfz0J+UoD\n768fE6Zm3QKBgEXP2yB2ulWYH1GJnjNENE1AdFxFpJl7KlCzqz+Mt0kvCDpRmL5f\n7lQjmWK7S7hqD004yKZtQ2MMi8+B/CyOGJoc5OI9J3l94FHCO5Nc1pYuv8ILDWf/\nNFMpOjnVT3CHEObOX2Kav7iSbw47yUY72c0UM0mPvJ84jKCx/eZk5NUBAoGAAalu\nuji1DAEM7xAXCVVbxDD7d45+TXZbbuASVN9pTwdQ/Cq6K+yWdjXBineRV5J8Uwy+\nSTDFGgPPNLHoAl4tvTxCPDHRHn+dAjxQJQT3bg9IvJqNXIwbECxrEMpTagO5+7N+\nZOLDlD7K4bNyrKZyXwZ+goVmZK9fV7raTMFnKA0CgYBo0djvb7FEKYp89e5q46QS\n7rsgMihDBUyen9xuQFwq0jNQ9Zwy1YzeEKXX49vWXXbk3C/DhAUyLFK+ndtvVpyg\nyYky2Ptwzj2OMrrd8lvShWEY2+A9p5kY2jCF0lVud+JWDagUqMeJG8q2rj+Qfsyv\nNODa50bRm2Jcs8f5i5zenw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "kim-ashmore@mazefr-1234.iam.gserviceaccount.com",
+  "client_id": "115966491440851376082",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kim-ashmore%40mazefr-1234.iam.gserviceaccount.com"
+}

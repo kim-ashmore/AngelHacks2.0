@@ -12,7 +12,7 @@ public class cameraRender : MonoBehaviour
 
 		WebCamDevice device = WebCamTexture.devices[0];
 		string deviceName= device.name;
-        webCamTexture = new WebCamTexture(deviceName);
+        webCamTexture = new WebCamTexture(deviceName, 400, 300, 12);
 		
         GetComponent<Renderer>().material.mainTexture = webCamTexture; //Add Mesh Renderer to the GameObject to which this script is attached to
         webCamTexture.Play();
