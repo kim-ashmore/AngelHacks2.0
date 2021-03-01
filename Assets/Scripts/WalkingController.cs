@@ -1,12 +1,14 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class WalkingController : MonoBehaviour
 {
   [Header("Input Settings")]
   public int playerID;
   private bool isGrounded;
+  private bool hasKey = false;
 
   [Header("Character Statistics")]
   public Vector3 movementDirection;
@@ -67,6 +69,13 @@ public class WalkingController : MonoBehaviour
     void OnCollisionEnter(Collision collision){
       if (collision.gameObject.name == "Plane"){
         isGrounded = true;
+      }
+      else if (collision.gameObject.name == "Key"){
+        hasKey = true;
+        Debug.Log(hasKey);
+        Destroy(collision.gameObject);
+      } else if (collision.gameObject.name == "End" && hasKey && SceneManager.GetActiveScene().buildIndex == 0){
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
       }
     }
 }
